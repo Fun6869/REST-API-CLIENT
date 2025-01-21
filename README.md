@@ -31,3 +31,5 @@ The JSON Simple library allows the program to handle JSON objects and arrays ret
 
 **java.net.URL:** URL is used to represent a URL and to open a connection to it via HttpURLConnection. It is used to specify the URLs to which the HTTP requests are sent.
 
+![Screenshot 2025-01-21 220937](https://github.com/user-attachments/assets/1b3a3249-03a2-4ae8-b371-fa1305b00f46)
+
